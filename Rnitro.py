@@ -29,6 +29,7 @@ def get_random_string():
         print(nitrolink, "Didnt work")
     else:
         print(nitrolink, "Works!")
+        time.sleep(100)
 
 
 
